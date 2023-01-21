@@ -1,11 +1,16 @@
-# AWS Certified Machine Learning Specialty (MLS-C01) Course
-  
-## To Enroll
-https://www.udemy.com/course/aws-machine-learning-a-complete-guide-with-python/?referralCode=9ADB4395937F7D656EB9  
-  
-## What you will learn
-Hi and Welcome to the AWS Certified Machine Learning Specialty (MLS-C01) Course  
-  
+# AWS Certified Machine Learning Specialty (MLS-C01) 
+
+Step-up Instructions
+git clone <repo>
+
+
+Sign-in with your Kaggle account
+To download the data, simply visit the URL:
+https://www.kaggle.com/c/bike-sharing-demand/data
+
+
+
+
 I am Chandra Lingam, and I am your instructor.  
   
 Here is what you will learn in this course:  
